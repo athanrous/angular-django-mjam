@@ -1,2 +1,3 @@
-# angular-django-mjam
-An Angular - Django application which aims communicate with Mjam.net API.
+
+
+Goodbye Github! Hello Gitlab: https://gitlab.com/athanrous
